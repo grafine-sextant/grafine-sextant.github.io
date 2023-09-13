@@ -1,0 +1,28 @@
+{
+    "thoughts": {
+        "title": "parsed thoughts",
+		"help": {
+            "title": "help me please",
+			"thoughtList": [
+				{
+                "ID": "0000789432237025",
+				"content": {
+					"main": "my thoughts are being read, modified, sorted, and parsed into JSON",
+					"attributes": {
+						"JSON": "ISO/IEC 21778:2017"
+						}
+					}
+				},
+				{
+                "ID": "0000789432237026",
+				"content": {
+					"main": "but i would prefer if they were in XML",
+					"attributes": {
+						"XML": "1998 XML 1.0 Semantic Web W3C standard"
+						}
+					}
+				}
+			]
+        }
+    }
+}
